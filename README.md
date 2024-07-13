@@ -22,16 +22,16 @@ Here are some ideas to get you started:
 
 ## 👨🏻‍💻 &nbsp;About Me
 
-<img alt="Night Coding" src="https://camo.githubusercontent.com/f6a3ce319a938926c27df1feef26eeadac0d53253750363b0bdb8412f0726c3e/68747470733a2f2f6d656469612e74656e6f722e636f6d2f595a506e477550655a763841414141642f636f64696e672e676966" align="right"/>
+<img alt="Night Coding" src="https://media.tenor.com/iviIq2uXz-kAAAAj/work-office.gif" align="right"/>
 
 
-🎓 Web Developer extraordinaire - can make IE6 cry tears of joy
-💡 Tech stack: HTML5, CSS3, SASS, JavaScript, TypeScript, React, Three.Js
-🌱 Always learning more about the developer world
-👨‍💻 UI/UX savvy with Figma and Affinity skills
-🔧 Proficient in Python, Automation, IoT, Postman, JMeter
-🎨 Side interests: Video editing, Photoshop, Playing guitar, Singing
-😂 Meme aficionado
-📧 Contact: pandey24piyush02@gmail.com - quick responses guaranteed!
+-🎓 Web Developer extraordinaire - can make IE6 cry tears of joy
+-💡 Tech stack: HTML5, CSS3, SASS, JavaScript, TypeScript, React, Three.Js
+-🌱 Always learning more about the developer world
+-👨‍💻 UI/UX savvy with Figma and Affinity skills
+-🔧 Proficient in Python, Automation, IoT, Postman, JMeter
+-🎨 Side interests: Video editing, Photoshop, Playing guitar, Singing
+-😂 Meme aficionado
+-📧 Contact: pandey24piyush02@gmail.com - quick responses guaranteed!
 
 ![snake gif](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
